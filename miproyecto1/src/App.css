@@ -1,0 +1,21 @@
+.App {
+  width: 30%;
+  font-size: 2em;
+  border-radius: 12px;
+  border: 1px solid black;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  background-color: orange;
+  margin: 10px;;
+}
+
+.im{
+
+  width: 100%;
+}
+
+.contenedor{
+  display: flex;
+  justify-content: space-evenly;
+}
